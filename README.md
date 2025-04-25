@@ -66,7 +66,3 @@ This will:
 - Explore advanced regression models like **Polynomial Regression**.
 - Apply the model to larger, real-world datasets.
 - Improve model accuracy by experimenting with feature engineering.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
